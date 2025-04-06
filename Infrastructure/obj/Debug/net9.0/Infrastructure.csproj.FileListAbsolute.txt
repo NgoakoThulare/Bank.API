@@ -1,0 +1,5 @@
+C:\repos\Bank.API\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\repos\Bank.API\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Bank.API\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\repos\Bank.API\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\repos\Bank.API\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache

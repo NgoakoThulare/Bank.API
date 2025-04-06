@@ -1,0 +1,13 @@
+C:\repos\Bank.API\Common\bin\Debug\net9.0\Common.deps.json
+C:\repos\Bank.API\Common\bin\Debug\net9.0\Common.runtimeconfig.json
+C:\repos\Bank.API\Common\bin\Debug\net9.0\Common.dll
+C:\repos\Bank.API\Common\bin\Debug\net9.0\Common.pdb
+C:\repos\Bank.API\Common\obj\Debug\net9.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Bank.API\Common\obj\Debug\net9.0\Common.AssemblyInfoInputs.cache
+C:\repos\Bank.API\Common\obj\Debug\net9.0\Common.AssemblyInfo.cs
+C:\repos\Bank.API\Common\obj\Debug\net9.0\Common.csproj.CoreCompileInputs.cache
+C:\repos\Bank.API\Common\obj\Debug\net9.0\Common.dll
+C:\repos\Bank.API\Common\obj\Debug\net9.0\refint\Common.dll
+C:\repos\Bank.API\Common\obj\Debug\net9.0\Common.pdb
+C:\repos\Bank.API\Common\obj\Debug\net9.0\Common.genruntimeconfig.cache
+C:\repos\Bank.API\Common\obj\Debug\net9.0\ref\Common.dll

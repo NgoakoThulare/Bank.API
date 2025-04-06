@@ -1,0 +1,17 @@
+C:\repos\Bank.API\Bank.Data\bin\Debug\net9.0\Bank.Data.deps.json
+C:\repos\Bank.API\Bank.Data\bin\Debug\net9.0\Bank.Data.runtimeconfig.json
+C:\repos\Bank.API\Bank.Data\bin\Debug\net9.0\Bank.Data.dll
+C:\repos\Bank.API\Bank.Data\bin\Debug\net9.0\Bank.Data.pdb
+C:\repos\Bank.API\Bank.Data\bin\Debug\net9.0\Common.dll
+C:\repos\Bank.API\Bank.Data\bin\Debug\net9.0\Common.pdb
+C:\repos\Bank.API\Bank.Data\obj\Debug\net9.0\Bank.Data.csproj.AssemblyReference.cache
+C:\repos\Bank.API\Bank.Data\obj\Debug\net9.0\Bank.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Bank.API\Bank.Data\obj\Debug\net9.0\Bank.Data.AssemblyInfoInputs.cache
+C:\repos\Bank.API\Bank.Data\obj\Debug\net9.0\Bank.Data.AssemblyInfo.cs
+C:\repos\Bank.API\Bank.Data\obj\Debug\net9.0\Bank.Data.csproj.CoreCompileInputs.cache
+C:\repos\Bank.API\Bank.Data\obj\Debug\net9.0\Bank.Data.csproj.Up2Date
+C:\repos\Bank.API\Bank.Data\obj\Debug\net9.0\Bank.Data.dll
+C:\repos\Bank.API\Bank.Data\obj\Debug\net9.0\refint\Bank.Data.dll
+C:\repos\Bank.API\Bank.Data\obj\Debug\net9.0\Bank.Data.pdb
+C:\repos\Bank.API\Bank.Data\obj\Debug\net9.0\Bank.Data.genruntimeconfig.cache
+C:\repos\Bank.API\Bank.Data\obj\Debug\net9.0\ref\Bank.Data.dll
