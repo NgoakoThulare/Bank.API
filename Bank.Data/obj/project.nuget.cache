@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iUVhqKQ/uMg=",
+  "dgSpecHash": "2yEke4OeKY4=",
   "success": true,
-  "projectFilePath": "C:\\repos\\Bank.API\\Bank.Data\\Bank.Data.csproj",
+  "projectFilePath": "C:\\Users\\NgoakoT\\source\\repos\\Bank.API\\Bank.Data\\Bank.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NgoakoT\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\NgoakoT\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

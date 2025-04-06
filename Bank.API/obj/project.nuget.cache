@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "naLgG6engVk=",
+  "dgSpecHash": "jGPDzy1KDJI=",
   "success": true,
-  "projectFilePath": "C:\\repos\\Bank.API\\Bank.API\\Bank.API.csproj",
+  "projectFilePath": "C:\\Users\\NgoakoT\\source\\repos\\Bank.API\\Bank.API\\Bank.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NgoakoT\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\NgoakoT\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
